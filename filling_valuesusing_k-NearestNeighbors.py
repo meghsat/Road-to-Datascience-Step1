@@ -1,3 +1,7 @@
+'''  Basic idea & GOAL: Impute array with a basic mean impute and then use the resulting complete array to construct a KDTree. Use this KDTree to compute nearest neighbours.
+    After finding `k` nearest neighbours, take the weighted average of them. Basically,
+    find the nearest row in terms of distance
+'''
 import pandas as pd
 import numpy as np
 import random
