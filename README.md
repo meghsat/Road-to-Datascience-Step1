@@ -17,15 +17,20 @@ Pycharm.
 
 ## Things I will discuss in this Repo: 
 
-1.	Bbasiccmds.ipynb: Working on some Basic Commands that will be useful while dealing with datasets.
+Step 1.	basiccmds.ipynb: Working on some Basic Commands that will be useful while dealing with datasets.
 
-2.	Finding Missing values and Noisy data.
+Step2.		datacleaning(part1): Finding Missing values and Noisy data. Filling the missing values using some basic python commands like: Mean, Median, Mode, this implementation is all done using jupyter notebook.
 
-3.	datacleaning(part1): Filling the missing values using some basic python commands like: Mean, Median, Mode, this implementation is all done on jupyter notebook.
+step3. datatidying : in this part we shall see major rules that we need to follow while tidying the dataset
 
-4. datatidying : in this part we shall see major rules that we need to follow while tidying the dataset
+step4. datacleaning using various techniques: this contains a series of codes that are used to fill missing values using PYTHON.
+                  4.1: Filling Missing Values using MEAN.
+                  4.2: Filling Missing Values using MEDIAN.
+                  4.3: Filling Missing Values using MODE.
+                  4.4: Filling Missing Values using K-Nearest Neighbors.
+                  4.5: Filling Missing Values using Multivariate imputation.
+                  4.6: Filling Missing Values using Deep Learning.
 
-4. datacleaning(part2): and some High level techniques like: k-Nearest Neighbors, Multivariate values(MICE), and Deep Learning.
-4.	Trying to decrease or eradicate Noise in the data by applying Data tidying.
+
 
 
