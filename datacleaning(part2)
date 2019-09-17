@@ -1,0 +1,11 @@
+## Implemented the following things to fill the missing values in the dataset:
+### Took a dataset and deliberately added missing values and later filled it with:
+1.	Mean.
+2.	Median.
+3.	Mode.
+4.	A Constant/Zero Value.
+5.	K-Nearest Neighbors.
+6.	Imputation Using Multivariate Imputation by Chained Equation (MICE)
+7.	Imputation Using Deep Learning (Datawig)
+
+## Goal:  Now we shall take a Data Set and add deliberately Missing Values into it and later we shall fill them using:
